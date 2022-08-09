@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TripathySuraj
 - 👀 I’m interested in Badminton
-- Passonate Coder
+- Passionate Coder
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me surajtripathy2000@gmail.com
